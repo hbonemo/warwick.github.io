@@ -189,8 +189,11 @@ body{background-color:#eee;}
 
 #generic_price_table{
 	background-color: #1f2b38;
-}
+	background:url('../images/6470.jpg') no-repeat center center;
+        border-bottom:1px solid #2ECC71;
+        margin-bottom:30px;
 
+}
 /*PRICE COLOR CODE START*/
 #generic_price_table .generic_content{
 	background-color: #fff;

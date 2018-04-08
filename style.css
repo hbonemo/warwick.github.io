@@ -173,7 +173,8 @@ box-shadow: 10px 10px 91px 0px rgba(193,79,82,1);
 }
 
 #navbar li.current a, #navbar a:hover{
-  color:#2ECC71;
+
+}  color:#2ECC71;
   border-bottom: 3px solid #2ECC71;
   padding-bottom:3px;
 }
@@ -225,3 +226,4 @@ body{background-color:#eee;}
 
 #generic_price_table .generic_content .generic_feature_list ul li{
 	color: #a7a7a7;
+}
